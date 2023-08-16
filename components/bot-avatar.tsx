@@ -1,5 +1,5 @@
-import { Avatar } from "@/components/ui/avatar";
-import { AvatarImage } from "@radix-ui/react-avatar";
+import { Avatar, AvatarImage } from "@/components/ui/avatar";
+
 
 
 interface BotAvatarProps {
